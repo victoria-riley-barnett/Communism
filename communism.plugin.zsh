@@ -1,6 +1,6 @@
 
 #Change your name here
-name="Victoria"
+name=${USERNAME}
 d=`date '+%A %d-%B, %Y'`
 
 quotes=("History repeats itself, first as tragedy, second as farce.  
