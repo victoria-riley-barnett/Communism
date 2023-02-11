@@ -5,7 +5,11 @@
 A chill startup plugin
 
 Requires oh-my-zsh
+### Installation
+```
+cd ~/{wherever you put your OMZ plugins}
+git clone --depth-1 https://github.com/victoria-riley-barnett/Communism
 
-Place in /Users/user/.oh-my-zsh/custom/plugins, in a parent folder named "anything" (I used 'communism'). Then, cd back to root and edit .zshrc to include your plugin. 
-
+#Edit .zshrc to include your plugin. 
 plugins=(... communism)
+```
