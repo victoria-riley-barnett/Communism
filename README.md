@@ -15,5 +15,5 @@ git clone --depth-1 https://github.com/victoria-riley-barnett/Communism
 ```
 ```
 #Edit your .zshrc Plugins array to include your new plugin. 
-plugins=(... communism)
+plugins=(... Communism)
 ```
