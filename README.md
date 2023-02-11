@@ -8,10 +8,12 @@ A chill ZSH startup plugin that adds Marx quotes and some wonderful red imagery 
 - oh-my-zsh
 
 ### Installation
-```
-cd ~/{wherever you put your OMZ plugins}
-git clone --depth-1 https://github.com/victoria-riley-barnett/Communism
 
+```
+cd ~/{wherever you put your OMZ plugins or scripts}
+git clone --depth-1 https://github.com/victoria-riley-barnett/Communism
+```
+```
 #Edit .zshrc to include your plugin. 
 plugins=(... communism)
 ```
