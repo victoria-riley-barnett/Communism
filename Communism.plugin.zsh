@@ -1,5 +1,4 @@
-
-#Change your name here
+#Change your name here if you don't like your Username
 name=${USERNAME}
 d=`date '+%A %d-%B, %Y'`
 
